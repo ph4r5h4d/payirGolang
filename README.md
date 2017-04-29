@@ -1,6 +1,8 @@
 # payirGolang
 This is a simple GoLang package for pay.ir gateway.
 
+First check `api.go` and modify the file the way you need, then use the sample provided below.
+
 For requesting a payment transId use the following code sample:
 
 <pre>
